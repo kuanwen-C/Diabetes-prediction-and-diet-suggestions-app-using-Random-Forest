@@ -304,8 +304,8 @@ def main(page: ft.Page):
         
 
 
-    img=ft.Image(src="./image/AI_doctor.png",width=480,height=480)     #import the images
-    img_diet=ft.Image(src="./image/diet.png",width=550,height=550)
+    img=ft.Image(src="./AI_doctor.png",width=480,height=480)     #import the images
+    img_diet=ft.Image(src="./diet.png",width=550,height=550)
     
     height = ft.TextField(label="Enter height (unit:meter)")                         #the input sections
     weight = ft.TextField(label="Enter weight (unit:Kg)")
