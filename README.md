@@ -144,7 +144,7 @@ each nutrient can be calculated based on the energy density of each nutrient
 ------------------------------------
 # Note
 
-1. The .png pictures and csv should be put under the same folder as the code file.
+1. The image folder and .csv file should be put under the same folder as the code file.
 2. The ML training dataset comes from   https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
