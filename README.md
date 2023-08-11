@@ -75,10 +75,9 @@ I used a dataset from Kaggle, consisting of 768 records of body data along with
 information on the presence or absence of diabetes. This dataset served as the training
 dataset for the model.
 
-![image](https://github.com/kuanwen-C/Diabetes-prediction-and-diet-suggestions-app-using-Random-Forest/assets/128893625/e32e8f5e-1fc4-4521-aebb-dbcd6cfa8914)
+![image](https://github.com/kuanwen-C/Diabetes-prediction-and-diet-suggestions-app-using-Random-Forest/assets/128893625/ce748961-c406-4bbf-b273-73c2a6778d41)
 
-
-![image](https://github.com/kuanwen-C/Diabetes-prediction-and-diet-suggestions-app-using-Random-Forest/assets/128893625/1caeedd8-aa70-48ca-90bd-e1b8629aebf8)
+![image](https://github.com/kuanwen-C/Diabetes-prediction-and-diet-suggestions-app-using-Random-Forest/assets/128893625/10cebc88-512b-4b0f-af85-e492fb852304)
 
 
 The above figures are the data analysis of the dataset used reveals that most of the
@@ -91,6 +90,8 @@ family medical history, we can observe that the majority of the data falls below
 0.6263, with an average of 0.4719. Therefore, when designing the user interface for
 the Diabetes Prediction Function dropdown, we can consider the distribution of this
 data and create options that align with the data patterns.
+
+
 
 Part2.
 
@@ -136,10 +137,12 @@ each nutrient can be calculated based on the energy density of each nutrient
 --------------------------------
 # Process:
 
-![image](https://github.com/kuanwen-C/Diabetes-prediction-and-diet-suggestions-app-using-Random-Forest/assets/128893625/1038d0d5-e414-4844-9e15-db4ca70236f7)
+![image](https://github.com/kuanwen-C/Diabetes-prediction-and-diet-suggestions-app-using-Random-Forest/assets/128893625/b06d6f5a-876b-40e6-86a5-65f5b958415f)
 
 
-![image](https://github.com/kuanwen-C/Diabetes-prediction-and-diet-suggestions-app-using-Random-Forest/assets/128893625/081ed356-4851-415d-98ba-41fb7d6e0a7e)
+
+![image](https://github.com/kuanwen-C/Diabetes-prediction-and-diet-suggestions-app-using-Random-Forest/assets/128893625/f1f0990e-1a73-434a-a548-20a378319c9b)
+
 
 ------------------------------------
 # Note
